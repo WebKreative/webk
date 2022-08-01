@@ -1,0 +1,17 @@
+{
+  "name": "webk-project",
+  "version": "0.0.0",
+  "description": "WebK project for web developers",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebKreative/webk.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebKreative/webk/issues"
+  },
+  "homepage": "https://github.com/WebKreative/webk#readme"
+}
